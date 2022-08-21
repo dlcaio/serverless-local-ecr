@@ -1,0 +1,26 @@
+{
+  "name": "serverless-local-ecr",
+  "version": "1.0.0",
+  "description": "A Serverless plugin to solve local invocation of lambdas that point to ECR on AWS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Della Libera",
+  "license": "ISC",
+  "keywords": [
+    "serverless",
+    "serverless-framework",
+    "plugin",
+    "ECR",
+    "local",
+    "invoke",
+    "image",
+    "container",
+    "lambda"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlcaio/serverless-local-ecr"
+  }
+}
